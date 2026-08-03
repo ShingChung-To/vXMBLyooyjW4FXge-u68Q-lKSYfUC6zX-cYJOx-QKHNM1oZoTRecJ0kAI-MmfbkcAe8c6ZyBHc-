@@ -1,0 +1,12 @@
+{
+  "table": "train_unit_allocation_history",
+  "archive_day": "2026-07-31",
+  "cutoff": "2026-08-02T17:06:35.038Z",
+  "row_count": 1000,
+  "encrypted_file": "history/train_unit_allocation_history/2026-07-31/train_unit_allocation_history-2026-07-31-982366-983365-2026-08-03T17-10-12-009Z.jsonl.gz.enc",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "kdf": "PBKDF2-SHA256"
+  },
+  "exported_at": "2026-08-03T17:10:12.344Z"
+}
